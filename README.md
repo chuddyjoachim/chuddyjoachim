@@ -5,7 +5,7 @@ I'm Joachim a Full Stack Web Designer/Developer. I Spend most of time coding out
 :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@chuddyjoachim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/chuddyjoachim)](https://twitter.com/chuddyjoachim) 
-[![Linkedin Badge](https://img.shields.io/badge/-JoachimChikezie-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joachim-chikezie-b56b96200/) [![Mail Badge](https://img.shields.io/badge/-@ChuddyJoachim-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/chuddyjoachim/) [![Mail Badge](https://img.shields.io/badge/-JoachimChikezie-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chukwudi2726.cjs@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-JoachimChikezie-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chuddyjoachim/) [![Mail Badge](https://img.shields.io/badge/-@ChuddyJoachim-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/chuddyjoachim/) [![Mail Badge](https://img.shields.io/badge/-JoachimChikezie-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:chukwudi2726.cjs@gmail.com)
 
 <!-- TODO: Add last video link -->
 
