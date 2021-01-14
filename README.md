@@ -51,7 +51,7 @@ I'm Joachim a Full Stack Web Designer/Developer. I Spend most of time coding out
 
 #### Github Stats
 
-![ChuddyJoachims github stats](https://github-readme-stats.vercel.app/api?username=Chikezie-Joachim&count_private=true&theme=dark&hide=contribs,prs)
+![ChuddyJoachims github stats](https://github-readme-stats.vercel.app/api?username=chuddyjoachim&count_private=true&theme=dark&hide=contribs,prs)
 
 
 
