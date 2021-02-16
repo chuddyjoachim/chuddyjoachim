@@ -9,7 +9,6 @@ I'm Joachim a Full Stack Web Designer/Developer. I Spend most of time coding out
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently Learning Go-Lang.
 - :computer: Most used line of code `cd ../`
 - 📫 How to reach me: chukwudi2726.cj@gmail.com.
 
