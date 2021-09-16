@@ -32,7 +32,6 @@ I'm Joachim a Full Stack Web Designer/Developer. I Spend most of time coding out
 
 #### Github Stats
   <br/>
-    <a href="https://github.com/chuddyjoachim/github-readme-stats"><img alt="Francis' Github Stats" src="https://github-readme-stats.vercel.app/api?username=chuddyjoachim&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/chuddyjoachim/github-readme-stats"><img alt="Francis' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chuddyjoachim&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
