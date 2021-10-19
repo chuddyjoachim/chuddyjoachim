@@ -1,11 +1,10 @@
-## Hi, I'm Joachim <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="px" alt="hi">.
+## Hey There 👋
 
-I'm Joachim a Full Stack Web Designer/Developer. I Spend most of time coding outstanding projects .
+### I'm Joachim 
+A Full Stack Web Designer/Developer. I Spend most of time coding outstanding projects .
 
 :mailbox: Reach me out!
 
-<a href="https://chuddyjoachim.com"><img src="https://img.shields.io/badge/WEBSITE-chuddyjoachim.com-blue?style=for-the-badge&logo=appveyor" alt ="chuddyjoachim.com"/></a>
-<br/>
 [![Twitter Badge](https://img.shields.io/badge/-@chuddyjoachim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/chuddyjoachim)](https://twitter.com/chuddyjoachim) 
 [![Linkedin Badge](https://img.shields.io/badge/-JoachimChikezie-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chuddyjoachim/) [![Mail Badge](https://img.shields.io/badge/-@ChuddyJoachim-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/chuddyjoachim/)
 
