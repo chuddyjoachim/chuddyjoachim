@@ -1,15 +1,11 @@
 ### Hey There 👋👋👋
 
 ### I'm Joachim 
-A Fullstack engineer
-
-A Web Designer/Developer.
-
-A Mobile Developer.
-
-I Spend most of time Building outstanding projects.
-
-I am also a Product designer check me out on [Behance](https://www.behance.net/chukwudijoachim)
+- A **Fullstack** engineer
+- A **Web** Designer/Developer.
+- A **Mobile** Developer.
+- I Spend most of time Building outstanding projects.
+- I also made out time to engage in **UI/UX** design check me out on [Behance.net](https://www.behance.net/chuddyjoachim) 😊
 
 :mailbox: Reach me out!
 
