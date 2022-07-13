@@ -4,7 +4,6 @@
 
 - **Web / Mobile** Designer/Developer.
 - I Spend most of time Building outstanding projects.
-- I also made out time to engage in **UI/UX** design check me out on [Behance.net](https://www.behance.net/chuddyjoachim) 😊
 
 :mailbox: Reach me out!
 
