@@ -2,8 +2,8 @@
 
 ### I'm Joachim 
 
-- **Web / Mobile** Designer/Developer.
-- I Spend most of time Building outstanding projects.
+- **Web - RN** Designer -> Developer.
+- Intrests - Micro frontend and a11y.
 
 :mailbox: Reach me out!
 
