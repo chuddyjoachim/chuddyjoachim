@@ -3,7 +3,6 @@
 ### I'm Joachim 
 
 - **Web - RN** Designer -> Developer.
-- Intrests - Micro frontend and a11y.
 
 :mailbox: Reach me out!
 
