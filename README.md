@@ -10,5 +10,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-JoachimChikezie-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chuddyjoachim/) 
 
 <b>Profile Visits </b>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Chikezie-Joachim.Chikezie-Joachim)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chuddyjoachim&label=Profile%20views&color=0e75b6&style=flat" alt="chuddyjoachim" /> </p>
